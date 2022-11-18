@@ -21,7 +21,7 @@ const Modal: FC<IModalProps> = ({
     return () => clearTimeout(timer);
   }, [count]);
 
-  const cancelModal = () => setActive(false);
+  const cancelModal = () => setActive(prev => !prev);
 
   const completed = () => {
     alert('Действие выполнено');

@@ -1,6 +1,6 @@
 export interface IModalProps {
   active: boolean;
-  setActive: (data: boolean) => void;
+  setActive: (data: (data: boolean) => boolean) => void;
   setIsCompleted: (data: boolean) => void;
   children: React.ReactNode;
 }
