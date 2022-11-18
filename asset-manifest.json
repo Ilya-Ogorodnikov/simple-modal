@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-modal/static/css/main.28690c12.css",
+    "main.js": "/simple-modal/static/js/main.ab4caa44.js",
+    "index.html": "/simple-modal/index.html",
+    "main.28690c12.css.map": "/simple-modal/static/css/main.28690c12.css.map",
+    "main.ab4caa44.js.map": "/simple-modal/static/js/main.ab4caa44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28690c12.css",
+    "static/js/main.ab4caa44.js"
+  ]
+}
